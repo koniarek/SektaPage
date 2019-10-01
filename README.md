@@ -1,0 +1,1 @@
+gatsby-theme-gallery/README.md
